@@ -10710,14 +10710,14 @@
 	const s = function () {
 			return (
 				(0, r.useEffect)(() => {
-					document.title = "Rafael Jardim";
+					document.title = "Antonio Marcos";
 				}, []),
 				(0, i.jsxs)("div", {
 					id: "parent",
 					children: [
 						(0, i.jsx)("header", {
 							id: "header",
-							children: "RAFAEL JARDIM",
+							children: "ANTONIO MARCOS",
 						}),
 						(0, i.jsxs)("main", {
 							children: [
@@ -10731,26 +10731,26 @@
 										(0, i.jsx)("img", {
 											id: "fotonumero1",
 											src: o,
-											alt: "23023 Rafael Jardim",
+											alt: "20 Antonio Marcos",
 										}),
 									],
 								}),
 								(0, i.jsx)("img", {
-									id: "fotorafael",
+									id: "fotoantonio",
 									src: a,
-									alt: "Foto do Rafael Jardim",
+									alt: "Foto do Antonio Marcos",
 								}),
 								(0, i.jsx)("img", {
 									id: "fotonumero2",
 									src: o,
-									alt: "23023 Rafael Jardim",
+									alt: "20 Antonio Marcos",
 								}),
 							],
 						}),
 						(0, i.jsx)("footer", {
 							id: "cnpj",
 							children:
-								"RAFAEL JARDIM PEREIRA RAMOS VEREADOR CNPJ 56.531.267/0001-60",
+								"ANTONIO MARCOS DE LEMOS MACHADO PREFEITO CNPJ 56.561.596/0001-53",
 						}),
 					],
 				})

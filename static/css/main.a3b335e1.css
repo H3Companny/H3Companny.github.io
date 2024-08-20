@@ -10,12 +10,12 @@ code {
 		monospace;
 }
 div#parent {
-	background-color: #072d4c;
+	background-color: #3886c4;
 	height: 100vh;
 }
 header#header {
-	background-color: #fde907;
-	color: #072d4c;
+	background-color: #31ad48;
+	color: #3886c4;
 	font-family: Roboto, sans-serif;
 	font-size: 40px;
 	font-style: normal;
@@ -50,8 +50,8 @@ main {
 }
 
 footer#cnpj {
-	background-color: #fde907;
-	color: #072d4c;
+	background-color: #31ad48;
+	color: #3886c4;
 	font-family: Roboto, sans-serif;
 	font-weight: 700;
 	padding: 5px;
