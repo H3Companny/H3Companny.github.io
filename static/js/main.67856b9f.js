@@ -10703,7 +10703,7 @@
 		})();
 	var r = t(43),
 		l = t(391);
-	const a = t.p + "static/media/rafaelsozinho.480540d35e4f33b46e9b.png",
+	const a = t.p + "static/media/antonio_sozinho.png",
 		o = t.p + "static/media/nomenumero.772ef0a5788e47e5c564.png",
 		u = t.p + "static/media/emconstrucao.d7183302d5316a16e520.png";
 	var i = t(579);
